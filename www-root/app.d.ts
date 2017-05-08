@@ -1,0 +1,1 @@
+/// <reference path="bower_components/phaser-ce/typescript/phaser.d.ts"/>

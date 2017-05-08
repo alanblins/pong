@@ -35,3 +35,8 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+.tscache/
+www-root/bower_components
+www-root/*.js
+www-root/*.js.map
